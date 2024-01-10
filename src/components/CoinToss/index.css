@@ -1,0 +1,27 @@
+.bg-con {
+  background-color: #ffffff;
+  border-radius: 20px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.toss-img {
+  height: 150px;
+}
+button {
+  background-color: #ffda6f;
+  border: none;
+  border-radius: 10px;
+  color: #a35200;
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.coins-count {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+}
